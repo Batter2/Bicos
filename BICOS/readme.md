@@ -9,6 +9,6 @@
 
 ## 이미지
 
-![calendar](https://user-images.githubusercontent.com/112329594/229397323-31ae2b97-78f9-43e3-8319-78585a790f3a.png)
+![calendar](https://user-images.githubusercontent.com/112329594/229397725-8bdf2474-add2-44ee-9f32-c3a7f89b2bac.png)
 ![alt text](https://github.com/danielmbutler/Photo_Notes/blob/master/res/login.png)
 ![alt text](https://github.com/danielmbutler/Photo_Notes/blob/master/res/memo.png)
