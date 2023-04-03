@@ -1,17 +1,14 @@
-# Photo Notes 
-A typical notes app with photos built in Jetpack Compose,
+# Bicos App
+- 명함 OCR 기술을 활용하여 고객관리와 일정관리를 도와주는 어플
 
-# Features
-* Jetpack Compose
-* Room Database
-* ViewModels
-* Navigation
-* LiveData
-* All CRUD actions
-* Multiple items in list view
+# 사용한 기술스택
+- Jetpack Compose
+- Firebase
+- Flask
+- PORORO 라이브러리
 
-## ScreenShots
+## 이미지
 
-![alt text](https://github.com/danielmbutler/Photo_Notes/blob/master/res/home.png)
-![alt text](https://github.com/danielmbutler/Photo_Notes/blob/master/res/detail.png)
-![alt text](https://github.com/danielmbutler/Photo_Notes/blob/master/res/create.png)
+![alt text](https://github.com/danielmbutler/Photo_Notes/blob/master/res/calendar.png)
+![alt text](https://github.com/danielmbutler/Photo_Notes/blob/master/res/login.png)
+![alt text](https://github.com/danielmbutler/Photo_Notes/blob/master/res/memo.png)
