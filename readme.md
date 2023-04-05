@@ -3,8 +3,11 @@
 
 # 기술스택
 -Jetpack Compose
+
 -Firebase
+
 -Flask
+
 -PORORO 라이브러리
 
 ## 이미지
