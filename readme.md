@@ -2,13 +2,10 @@
 - 명함 OCR 기술을 활용하여 고객관리와 일정관리를 도와주는 어플
 
 # 기술스택
--Jetpack Compose
-
--Firebase
-
--Flask
-
--PORORO 라이브러리
+- Jetpack Compose
+- Firebase
+- Flask
+- PORORO 라이브러리
 
 ## 이미지
 
